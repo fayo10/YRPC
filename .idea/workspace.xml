@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4fcb5cd-af77-4249-bcdf-9e0249249f79" name="更改" comment="Version-01" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/fayo10/YRPC.git",
+    "accountId": "a2f113c0-ef54-47b3-b1d9-566dffaf7663"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Java\apache-maven-3.9.12" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.9.12\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AnB4DuL03qzHUoc0XqygS2NdO0" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.YRPC--01 [clean].executor": "Run",
+    "Maven.YRPC--01 [compile].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/python-c++-study/Java/YRPC/YRPC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.TestClient.executor": "Run",
+    "应用程序.TestServer.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python-c++-study\Java\YRPC\YRPC--01\src\main\java\part03" />
+      <recent name="D:\python-c++-study\Java\YRPC\YRPC--01\src\main\java" />
+      <recent name="D:\python-c++-study\Java\YRPC\YRPC--01\src\main\java\Part01\Service\server\work" />
+      <recent name="D:\python-c++-study\Java\YRPC" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Part02.Service.server" />
+      <recent name="part03.Service.server" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f4fcb5cd-af77-4249-bcdf-9e0249249f79" name="更改" comment="" />
+      <created>1773218261799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773218261799</updated>
+      <workItem from="1773218262830" duration="23236000" />
+      <workItem from="1773377539997" duration="136000" />
+      <workItem from="1773377769729" duration="13822000" />
+      <workItem from="1773398473145" duration="12002000" />
+      <workItem from="1773563104437" duration="353000" />
+      <workItem from="1773910336099" duration="12000" />
+      <workItem from="1774001169633" duration="742000" />
+      <workItem from="1774001969121" duration="16527000" />
+      <workItem from="1774100083418" duration="366000" />
+    </task>
+    <task id="LOCAL-00001" summary="Version-01">
+      <option name="closed" value="true" />
+      <created>1774100346562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774100346562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version-01" />
+  </component>
+</project>
